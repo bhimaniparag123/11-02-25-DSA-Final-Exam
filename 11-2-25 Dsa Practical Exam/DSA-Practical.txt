@@ -1,0 +1,6 @@
+JavaScript DSA Practical Exam
+Q.1 WAP to implement insert, View and delete operations in Array using JavaScript without any function
+Q.2 WAP to implement Quick sort using JavaScript with DSA.
+Q.3 WAP to count Even and Odd Values from 2D array using JavaScript.
+Q.4 WAP to implement insert and remove element from Queue using JavaScript.
+Q.5 WAP to implement Bubble sort using JavaScript with DSA.
